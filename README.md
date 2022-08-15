@@ -1,2 +1,1 @@
-# ttanzil24.github.io
-My Personal Website / Portfolio
+# My Personal Website / Portfolio
